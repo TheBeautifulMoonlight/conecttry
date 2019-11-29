@@ -1,4 +1,5 @@
 ﻿import socket
+ import sys
 
 
 def socket_service_data():
